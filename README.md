@@ -1,16 +1,17 @@
-### Hi there 👋
+# 🤞🏼  Who am I?
+ - 👋 Hi, I’m Alisher Isauhamedov, Python\JavaScript developer from Uzbekistan.👨💻
+ - 🔎 Learing Linux, Java, Python, JavaScript, C++.
+ - 📌 Looking for a new projects, new opportunities and some creative emoji
+ - ⚙️ Interested in **applications, software development and self-development too**
+ - 🤟 In my spare time prefer to spend time in skatepark, reading books, playing punk roc>
+ - 🎵 Like Green Day and punk rock music, love organize and manage something
 
-<!--
-**FWorld21/FWorld21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥 My skills:
+ - Python | SQL
+ - JavaScript | HTML | CSS | Java basics
+ - GIMP
+ - Git | Github
+ ## How to contact me?
+ - 📧 E-mail: *FWorld21@protonmail.com*
+ - 📷Instagram: [https://www.instagram.com/s4int_jimmy/](@s4int_jimmy)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
