@@ -1,5 +1,5 @@
 # 🤞🏼  Who am I?
- - 👋 Hi, I’m Alisher Isauhamedov, Python\JavaScript developer from Uzbekistan.👨💻
+ - 👋 Hi, I’m Alisher Isamuhamedov, Python\JavaScript developer from Uzbekistan.👨💻
  - 🔎 Learing Linux, Java, Python, JavaScript, C++.
  - 📌 Looking for a new projects, new opportunities and some creative emoji
  - ⚙️ Interested in **applications, software development and self-development too**
